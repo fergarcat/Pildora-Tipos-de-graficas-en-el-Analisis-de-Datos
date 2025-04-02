@@ -27,10 +27,12 @@ Antes de continuar me gustaría presentarte a un personaje clave:
 Ahora si vamos con el plato fuerte de esta píldora:
 
 ### Desviación:
-Sirve para subrayar las variaciones numéricas desde un punto de referencia fijo. Habitualmente, el punto de referencia es cero, pero también puede ser un objetivo o un promedio a largo plazo. Además, este tipo de gráficos resultan útiles para mostrar sentimientos (positivo, neutral o negativo). Los gráficos más frecuentes son:
+Sirve para subrayar las variaciones numéricas desde un punto de referencia fijo. Habitualmente, el punto de referencia es cero, pero también puede ser un objetivo o un promedio a largo plazo. Además, este tipo de gráficos resultan útiles para mostrar sentimientos (positivo, neutral o negativo).  comparar resultados vs. objetivos. Por ejemplo, ingresos esperados vs. reales, o encuestas con opiniones positivas/negativasLos gráficos más frecuentes son:
 
 #### Barra Divergente
 Un gráfico de barras estándar simple que permite manejar valores de magnitud tanto negativos como positivos.
+
+ Usos: Muy útil para comparar resultados vs. objetivos. Por ejemplo, ingresos esperados vs. reales, o encuestas con opiniones positivas/negativas
 
 ![]()
 
@@ -45,6 +47,8 @@ Divide un valor único en 2 componentes contrastables (p. ej., masculino/femenin
 #### Gráfico de dispersión
 La forma estándar de mostrar la relación entre dos variables continuas, cada una de las cuales tiene su propio eje.
 
+Usos: Para estudiar cómo se relacionan dos variables, como ingresos vs. gasto, o edad vs. rendimiento.
+
 ![]()
 
 #### Línea del tiempo
@@ -57,6 +61,8 @@ Es necesario clasificar variables numéricas cuando la posición de un elemento 
 
 #### Gráfico de barras
 Este tipo de visualizaciones permiten mostar los rangos de valores de forma sencilla cuando se ordenan.
+
+Usos: Ideal para rankings, como ventas por producto o rendimiento por empleado.
 
 ![]()
 
@@ -72,6 +78,8 @@ La forma en sí misma de una distribución puede ser una forma interesante de re
 
 ##### Histograma
 Es la forma más habitual de mostrar una distribución estadística. Para desarrollarlo se recomienda mantener un pequeño espacio entre las columnas para, así, resaltar la "forma" de los datos.
+
+Usos: Se usa para analizar la frecuencia, como distribución de edades, tiempos de respuesta o precios. 
 
 ![]()
 
@@ -91,6 +99,8 @@ A través de esta combinación de variables numéricas es posible dar énfasis a
 #### Línea
 Es la forma estándar para mostrar una serie temporal cambiante. Si los datos son muy irregulares puede ser útil emplear marcadores que ayuden a representar puntos de datos.
 
+Usos: Seguimiento de KPIs, como tráfico web por mes o crecimiento de usuarios
+
 ![]()
 
 #### Mapa de calor calendario
@@ -104,6 +114,8 @@ Sirve para mostrar patrones temporales (diario, semanal, mensual). Es necesario 
 #### Columnas
 Una de las maneras más comunes de comparar el tamaño de las cosas. El eje siempre debe comenzar en 0.
 
+Usos: Comparar cantidades totales, como presupuesto por departamento o población por ciudad.
+
 ![]()
 
 #### Gráfico de Marimekko
@@ -116,6 +128,8 @@ Este tipo de combinaciones numéricas son útiles para mostrar cómo una entidad
 
 #### Gráfico de tarta
 Uno de los gráficos más comunes para mostrar datos parciales o completos. Conviene tener presente que no es fácil comparar de forma precisa el tamaño de los distintos segmentos.
+
+Usos: Muy usado en reportes para mostrar distribución de presupuestos, participación de mercado
 
 ![]()
 
