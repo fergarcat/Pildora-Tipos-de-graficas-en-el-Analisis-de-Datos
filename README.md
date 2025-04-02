@@ -1,4 +1,4 @@
-# Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos
+# Pildora Tipos de graficas en-el Análisis de Datos
 
 El mundo esta lleno de datos, sin embargo es todo un arte interpretarlos y representarlos, este es el propósito de este repositorio darte unas pinceladas para que saques el artista que hay en ti.
 
@@ -34,14 +34,14 @@ Un gráfico de barras estándar simple que permite manejar valores de magnitud t
 
  Usos: Muy útil para comparar resultados vs. objetivos. Por ejemplo, ingresos esperados vs. reales, o encuestas con opiniones positivas/negativas
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(17).png)
 
 #### Tabla de columna
 Divide un valor único en 2 componentes contrastables.
 
 Usos: Útil para comparar proporciones binarias, como sexo o elecciones (masculino/femenino).
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(10).png)
 
 ### Correlación
 Útil para mostrar la relación entre dos o más variables. Conviene tener en cuenta que, a menos que les diga lo contrario, muchos lectores asumirán que las relaciones que les muestra son causales. Estos son algunos de los gráficos.
@@ -51,7 +51,7 @@ La forma estándar de mostrar la relación entre dos variables continuas, cada u
 
 Usos: Para estudiar cómo se relacionan dos variables, como ingresos vs. gasto, o edad vs. rendimiento.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(16).png)
 
 #### Línea del tiempo
 Una buena manera de mostrar la relación entre una cantidad (columnas) y un ratio (línea).
@@ -59,7 +59,7 @@ Una buena manera de mostrar la relación entre una cantidad (columnas) y un rati
 Usos: Muestra simultáneamente una cantidad absoluta (barras/línea) y un ratio (línea secundaria). Ideal para comparar métricas como ventas absolutas vs. porcentaje de crecimiento.
 
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(9).png)
 
 ### Clasificación
 Es necesario clasificar variables numéricas cuando la posición de un elemento en una lista ordenada es más importante que su valor absoluto o relativo. A través de los gráficos dispuestos a continuación es posible resaltar los puntos de interés.
@@ -69,14 +69,14 @@ Este tipo de visualizaciones permiten mostar los rangos de valores de forma senc
 
 Usos: Ideal para rankings, como ventas por producto o rendimiento por empleado.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(15).png)
 
 #### Diagrama tira de puntos
 Los puntos están ordenados en una tira. Esta distribución ahorra espacio para diseñar rangos en múltiples categorías.
 
 Usos:  Alternativa más limpia y compacta a las barras, especialmente útil cuando hay muchas categorías.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(8).png)
 
 ### Distribución
 Este tipo de gráficos buscan resaltar una serie de valores dentro de un conjunto de datos y representar con qué frecuencia ocurren. Es decir, se utilizan para mostrar cómo se distribuyen las variables a lo largo del tiempo, lo que ayuda a identificar valores atípicos y tendencias.
@@ -88,21 +88,21 @@ Es la forma más habitual de mostrar una distribución estadística. Para desarr
 
 Usos: Se usa para analizar la frecuencia, como distribución de edades, tiempos de respuesta o precios. 
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(14).png)
 
 #### Gráfico de cajas
 Eficaz para visualizar distribuciones múltiples mostrando la mediana (centro) y el rango de los datos.
 
 Usos: Resume la mediana, cuartiles y posibles valores atípicos. Muy útil en análisis estadístico.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(7).png)
 
 #### Pirámide poblacional
 Conocido por mostrar la distribución de la población por sexo. De hecho, se trata de una combinación de dos gráficos de barras horizontales compartiendo el eje vertical.
 
 Usos: Muestra la distribución de población por grupos de edad y sexo.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(6).png)
 
 ### Cambios en el tiempo
 A través de esta combinación de variables numéricas es posible dar énfasis a tendencias cambiantes. Estos pueden ser movimientos cortos o series extendidas que atraviesan décadas o siglos. Elegir el período de tiempo correcto a representar es clave para ofrecer un contexto al lector.
@@ -112,14 +112,14 @@ Es la forma estándar para mostrar una serie temporal cambiante. Si los datos so
 
 Usos: Seguimiento de KPIs, como tráfico web por mes o crecimiento de usuarios
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(13).png)
 
 #### Mapa de calor calendario
 Sirve para mostrar patrones temporales (diario, semanal, mensual). Es necesario ser muy precisos con la cantidad de datos.
 
 Usos: Ideal para visualizar patrones temporales como actividad diaria, asistencia, o ventas a lo largo del año.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(5).png)
 
 ### Magnitud
 Útil para visibilizar comparaciones de tamaño. Estas pueden ser relativas (simplemente pudiendo ver más grande/mayor) o absolutas (requiere ver diferencias más específicas). Por lo general, muestran variables que pueden ser contadas (por ejemplo, barriles, dólares o personas), en lugar de una tasa calculada o un porcentaje.
@@ -129,14 +129,14 @@ Una de las maneras más comunes de comparar el tamaño de las cosas. El eje siem
 
 Usos: Comparar cantidades totales, como presupuesto por departamento o población por ciudad.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(12).png)
 
 #### Gráfico de Marimekko
 deal para mostrar el tamaño y la proporción de los datos al mismo tiempo, y siempre y cuando, los datos no sean muy complejos.
 
 Usos: Excelente para visualizar composición de mercados.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(4).png)
 
 ### Parte de un todo
 Este tipo de combinaciones numéricas son útiles para mostrar cómo una entidad en sí misma puede dividirse en los elementos que lo conforman. Por ejemplo, es común utilizar la parte de un todo para representar la asignación de unos presupuestos o resultados electorales.
@@ -148,12 +148,12 @@ Uno de los gráficos más comunes para mostrar datos parciales o completos. Conv
 
 Usos: Muy usado en reportes para mostrar distribución de presupuestos, participación de mercado
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(11).png)
 
 #### Diagrama de Venn
 Limitado a representaciones esquemáticas que permiten mostrar interrelaciones o coincidencias.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(3).png)
 
 ### Espacial
 Se recurre a este tipo de gráficos cuando las ubicaciones precisas o los patrones geográficos en los datos son más importantes para el lector que cualquier otra cosa. Algunos de los más utilizados son:
@@ -163,12 +163,15 @@ Se trata del enfoque estándar para colocar datos en un mapa.
 
 Usos: Normalmente se aplica sobre un mapa real para mostrar intensidad por región (como casos por estado, ingresos por país).
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(2).png)
 
 #### Mapa de flujo
 Es utilizado para mostrar un movimiento de cualquier tipo dentro de un mismo mapa. Por ejemplo, puede emplearse para representar movimientos migratorios.
 
 Usos: Muestra movimiento o migración de un lugar a otro, muy útil en logística o migraciones humanas.
 
-![]()
+![](https://github.com/Bootcamp-IA-P4/Pildora-Tipos-de-graficas-en-el-Analisis-de-Datos/blob/main/img/image%20(1).png)
 
+## Herramientas en Python 
+
+## Errores comunes y buenas prácticas
