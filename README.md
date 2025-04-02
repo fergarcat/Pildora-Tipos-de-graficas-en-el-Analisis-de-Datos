@@ -3,6 +3,13 @@
 El mundo esta lleno de datos, sin embargo es todo un arte interpretarlos y representarlos, este es el propósito de este repositorio darte unas pinceladas para que saques el artista que hay en ti.
 
 
+Índice:
+
+- [Recursos útiles](#Recursos-útiles)
+- [Tipos de gráficas y cuando usarlas](#Tipos-de-gráficas-y-cuando-usarlas)
+- [Herramientas en Python](#Herramientas-en-Python)
+- [Errores comunes y buenas prácticas](#Errores-comunes-y-buenas-prácticas)
+
 ## Recursos útiles
 
 * Tipos de gráficos de datos y cómo crearlos en Python [crear gráficas en python](https://www.datacamp.com/es/tutorial/types-of-data-plots-and-how-to-create-them-in-python)
@@ -175,3 +182,5 @@ Usos: Muestra movimiento o migración de un lugar a otro, muy útil en logístic
 ## Herramientas en Python 
 
 ## Errores comunes y buenas prácticas
+
+
