@@ -37,7 +37,9 @@ Un gráfico de barras estándar simple que permite manejar valores de magnitud t
 ![]()
 
 #### Tabla de columna
-Divide un valor único en 2 componentes contrastables (p. ej., masculino/femenino).
+Divide un valor único en 2 componentes contrastables.
+
+Usos: Útil para comparar proporciones binarias, como sexo o elecciones (masculino/femenino).
 
 ![]()
 
@@ -54,6 +56,9 @@ Usos: Para estudiar cómo se relacionan dos variables, como ingresos vs. gasto, 
 #### Línea del tiempo
 Una buena manera de mostrar la relación entre una cantidad (columnas) y un ratio (línea).
 
+Usos: Muestra simultáneamente una cantidad absoluta (barras/línea) y un ratio (línea secundaria). Ideal para comparar métricas como ventas absolutas vs. porcentaje de crecimiento.
+
+
 ![]()
 
 ### Clasificación
@@ -68,6 +73,8 @@ Usos: Ideal para rankings, como ventas por producto o rendimiento por empleado.
 
 #### Diagrama tira de puntos
 Los puntos están ordenados en una tira. Esta distribución ahorra espacio para diseñar rangos en múltiples categorías.
+
+Usos:  Alternativa más limpia y compacta a las barras, especialmente útil cuando hay muchas categorías.
 
 ![]()
 
@@ -86,10 +93,14 @@ Usos: Se usa para analizar la frecuencia, como distribución de edades, tiempos 
 #### Gráfico de cajas
 Eficaz para visualizar distribuciones múltiples mostrando la mediana (centro) y el rango de los datos.
 
+Usos: Resume la mediana, cuartiles y posibles valores atípicos. Muy útil en análisis estadístico.
+
 ![]()
 
 #### Pirámide poblacional
 Conocido por mostrar la distribución de la población por sexo. De hecho, se trata de una combinación de dos gráficos de barras horizontales compartiendo el eje vertical.
+
+Usos: Muestra la distribución de población por grupos de edad y sexo.
 
 ![]()
 
@@ -106,6 +117,8 @@ Usos: Seguimiento de KPIs, como tráfico web por mes o crecimiento de usuarios
 #### Mapa de calor calendario
 Sirve para mostrar patrones temporales (diario, semanal, mensual). Es necesario ser muy precisos con la cantidad de datos.
 
+Usos: Ideal para visualizar patrones temporales como actividad diaria, asistencia, o ventas a lo largo del año.
+
 ![]()
 
 ### Magnitud
@@ -121,10 +134,14 @@ Usos: Comparar cantidades totales, como presupuesto por departamento o població
 #### Gráfico de Marimekko
 deal para mostrar el tamaño y la proporción de los datos al mismo tiempo, y siempre y cuando, los datos no sean muy complejos.
 
+Usos: Excelente para visualizar composición de mercados.
+
 ![]()
 
 ### Parte de un todo
 Este tipo de combinaciones numéricas son útiles para mostrar cómo una entidad en sí misma puede dividirse en los elementos que lo conforman. Por ejemplo, es común utilizar la parte de un todo para representar la asignación de unos presupuestos o resultados electorales.
+
+Usos: Representa conjuntos y sus intersecciones. Por ejemplo: usuarios que usan App A, App B, o ambas.
 
 #### Gráfico de tarta
 Uno de los gráficos más comunes para mostrar datos parciales o completos. Conviene tener presente que no es fácil comparar de forma precisa el tamaño de los distintos segmentos.
@@ -144,10 +161,14 @@ Se recurre a este tipo de gráficos cuando las ubicaciones precisas o los patron
 #### Mapa coroplético
 Se trata del enfoque estándar para colocar datos en un mapa.
 
+Usos: Normalmente se aplica sobre un mapa real para mostrar intensidad por región (como casos por estado, ingresos por país).
+
 ![]()
 
 #### Mapa de flujo
 Es utilizado para mostrar un movimiento de cualquier tipo dentro de un mismo mapa. Por ejemplo, puede emplearse para representar movimientos migratorios.
+
+Usos: Muestra movimiento o migración de un lugar a otro, muy útil en logística o migraciones humanas.
 
 ![]()
 
